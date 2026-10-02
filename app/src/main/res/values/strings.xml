@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Falcons Scorer</string>
+    <string name="brand_credit">WzStudio Present Falcons Scorer Developed by Samir Parajuli </string>
+    <string name="brand_studio">WzStudio Present</string>
+    <string name="brand_developer">Developed by Samir Parajuli</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_new_match">New Match</string>
+    <string name="nav_live_score">Scorer</string>
+    <string name="nav_scorecard">Scorecard</string>
+    <string name="nav_players">Players</string>
+    <string name="start_new_match">Start New Match</string>
+    <string name="quick_t20_match">Quick T20 Match</string>
+    <string name="resume_live_match">Resume Live Scoring</string>
+    <string name="undo_last_ball">Undo Last Ball</string>
+    <string name="swap_strike">Swap Strike</string>
+    <string name="wicket_button">WICKET</string>
+    <string name="smart_tools">Smart Tools</string>
+    <string name="share_scorecard">Share Scorecard</string>
+</resources>

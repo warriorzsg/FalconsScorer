@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Golden Shield Crest inside 66dp safe zone (21..87) -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,24 L78,32 L78,54 C78,70 67,80 54,85 C41,80 30,70 30,54 L30,32 Z" />
+    <path
+        android:fillColor="#08382B"
+        android:pathData="M54,28 L74,35 L74,54 C74,67 64,76 54,80 C44,76 34,67 34,54 L34,35 Z" />
+    <!-- Falcon Wings Silhouette -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M37,44 L50,49 L54,41 L58,49 L71,44 L65,55 L54,52 L43,55 Z" />
+    <!-- Cricket Stumps -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M47,53h2.5v19h-2.5z M52.75,53h2.5v19h-2.5z M58.5,53h2.5v19h-2.5z M46,50.5h16v2h-16z" />
+    <!-- Crimson Cricket Ball & Seam -->
+    <path
+        android:fillColor="#DC2626"
+        android:pathData="M54,66m-8,0a8,8 0,1 1,16 0a8,8 0,1 1,-16 0" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:pathData="M48,61 C52,64 56,68 60,71" />
+</vector>

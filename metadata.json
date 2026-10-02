@@ -1,0 +1,6 @@
+{
+  "name": "Falcons Scorer",
+  "description": "Complete, lightweight offline cricket scoring app supporting T20, ODI, Test, and custom formats with ball-by-ball analytics, player management, and full scorecards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
